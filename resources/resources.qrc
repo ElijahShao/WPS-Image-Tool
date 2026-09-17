@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/add.png</file>
+        <file>icons/insert.png</file>
+        <file>icons/clear.png</file>
+    </qresource>
+</RCC>
